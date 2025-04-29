@@ -1,2 +1,2 @@
 [config]
-project = api
+command = bash deploy.sh
